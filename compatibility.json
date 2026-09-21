@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "airasiaPackage": "com.dacsee",
+  "defaultStatus": "REVIEW_REQUIRED",
+  "versions": {
+    "1.36.2": {
+      "status": "REVIEWED",
+      "message": "Reviewed baseline"
+    }
+  }
+}

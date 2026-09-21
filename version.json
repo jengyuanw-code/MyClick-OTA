@@ -1,0 +1,9 @@
+{
+  "versionCode": 31,
+  "versionName": "1.6.23",
+  "packageName": "com.jy.myclick",
+  "apkUrl": "https://github.com/jengyuanw-code/MyClick-OTA/releases/download/v1.6.23/MyClick-1.6.23.apk",
+  "sha256": "3a27db6927c649d253bec9f4a2ee855c4ca9c890ad48f7b5cf41d9f65b5d6d57",
+  "sizeBytes": 7590361,
+  "signingCertificateSha256": "da552e630da3e08b9e9b230d60b66c02bb46459fea236205cd7e516c8dfa9cd3"
+}
