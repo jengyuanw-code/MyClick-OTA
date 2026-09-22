@@ -1,9 +1,9 @@
 {
-  "versionCode": 32,
-  "versionName": "1.6.24",
+  "versionCode": 33,
+  "versionName": "1.6.25",
   "packageName": "com.jy.myclick",
-  "apkUrl": "https://github.com/jengyuanw-code/MyClick-OTA/releases/download/v1.6.24/MyClick-1.6.24.apk",
-  "sha256": "afce1ffd117d3501ae1fe012a03ef80192a18bf4e750316e13155749c6839ba3",
-  "sizeBytes": 7607221,
+  "apkUrl": "https://github.com/jengyuanw-code/MyClick-OTA/releases/download/v1.6.25/MyClick-1.6.25.apk",
+  "sha256": "f84536cbb4f9ea13bda5634a7022ca778ddc7d3aba85ea267f50b8057f7993ce",
+  "sizeBytes": 7665772,
   "signingCertificateSha256": "da552e630da3e08b9e9b230d60b66c02bb46459fea236205cd7e516c8dfa9cd3"
 }
